@@ -10,9 +10,9 @@ time.sleep(1)
 
 
 
-#copy and paste the code below as many times as you want and change the username.
+#Copy and paste the code below as many times as you want and change the username.
 #Run it and click your cursor were you input users names in Tumblr to block them then start the program.
-# This program can work using Pycharm and running it from there or you could compile to a exe if you want.
+#This program can work using Pycharm and running it from there or you could compile to a exe if you want.
 
 #code to copy and paste
 #|
